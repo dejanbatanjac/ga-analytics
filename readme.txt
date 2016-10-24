@@ -31,11 +31,9 @@ It requires at least WordPress 4.5.
 
 == Changelog ==
 
-= 1.2.0 [2016-10-24] =
-* Plugin name update inside readme.txt
+= 1.2.2 [2016-10-24] =
+* Updated readme.txt
 
-= 1.1.0 [2016-10-10] =
-* Initial version
 = 1.2.0 [2016-10-24] =
 * Better code formating
 * Plugin name updated
