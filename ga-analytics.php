@@ -1,6 +1,6 @@
 <?php
 /**
-Plugin Name: ga-analytics
+Plugin Name: GA Analytics
 Description: Setup for Google Analytics legacy code
 Version: 1.2.0
 Author: Dejan Batanjac
