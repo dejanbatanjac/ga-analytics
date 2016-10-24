@@ -1,10 +1,10 @@
-=== ga-analytics ===
+=== GA Analytics ===
 Contributors: Dejan Batanjac
 Donate link: https://programming-review.com/
 Tags: google, analytics
 Tested up to: 4.7
 Requires at least: 4.5
-Stable tag: 1.2.0
+Stable tag: 1.2.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,6 +31,11 @@ It requires at least WordPress 4.5.
 
 == Changelog ==
 
+= 1.2.0 [2016-10-24] =
+* Plugin name update inside readme.txt
+
+= 1.1.0 [2016-10-10] =
+* Initial version
 = 1.2.0 [2016-10-24] =
 * Better code formating
 * Plugin name updated
