@@ -19,7 +19,7 @@ It requires at least WordPress 4.5.
 
 == Installation ==
 
-1. Upload `ga-analytics`  folder to the plugins folder
+1. Upload the plugin
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 
