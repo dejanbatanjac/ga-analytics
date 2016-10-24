@@ -54,7 +54,7 @@ if ( ! class_exists( 'Db_Google_Analytics_Main' ) ) {
           if ( isset( $_POST['_wpnonce'] ) ) {
             $nonce = $_POST['_wpnonce'];
             if ( ! wp_verify_nonce( $nonce, 'google-analytics' ) ) {
-              die( 'Security check.' );
+              wp_die( __( 'Security check.' ) );
             }
           }
 
