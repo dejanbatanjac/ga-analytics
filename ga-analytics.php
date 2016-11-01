@@ -4,8 +4,8 @@
  * Description: Setup for Google Analytics legacy code
  * Version: 1.2.0
  * Author: Dejan Batanjac
-  *Author URI: https://programming-review.com/
-  */
+ * Author URI: https://programming-review.com/
+ */
 
 /**
  * WordPress version need to be at least 4.5.
