@@ -1,11 +1,11 @@
 <?php
 /**
-Plugin Name: GA Analytics
-Description: Setup for Google Analytics legacy code
-Version: 1.2.0
-Author: Dejan Batanjac
-Author URI: https://programming-review.com/
-*/
+ * Plugin Name: GA Analytics
+ * Description: Setup for Google Analytics legacy code
+ * Version: 1.2.0
+ * Author: Dejan Batanjac
+  *Author URI: https://programming-review.com/
+  */
 
 /**
  * WordPress version need to be at least 4.5.
@@ -78,7 +78,8 @@ if ( ! class_exists( 'Db_Google_Analytics_Main' ) ) {
           </div>
           <?php
         }// End if().
-    }
+      }
+
       public function add_ga_code() {
         // We know for sure WordPress uses JQuery.
         wp_enqueue_script( 'jquery-core' );
