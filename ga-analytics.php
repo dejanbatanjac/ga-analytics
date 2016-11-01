@@ -84,7 +84,7 @@ if ( ! class_exists( 'Db_Google_Analytics_Main' ) ) {
         wp_enqueue_script( 'jquery-core' );
         $google_analytics_script = get_option( 'db_google_analytics_code' );
 
-        // Remove <script> </script> tags from Google Analytics.
+        // Remove <script> </script> tags from Google Analytics since WordPress will provide them.
         wp_add_inline_script( 'jquery-core', stripslashes( strip_tags( htmlspecialchars_decode( $google_analytics_script ) ) ) );
       }
   }
